@@ -30,7 +30,7 @@ tmdb_5000_credits.csv: Dataset containing movie credits information.
 
 <b>Installation</b>
 
-1. Clone the repository: "git clone https://github.com/Runal07/movie-recommendation-system.git"
+1. Clone the repository: "https://github.com/sohail512/Movie-Recommender-System"
 2. Navigate to the project directory: cd movie-recommendation-system
 3. Extract the similarity.tar file: "tar -xzvf similarity.tar.gz"
 4. Install the required dependencies: "pip install -r requirements.txt"
